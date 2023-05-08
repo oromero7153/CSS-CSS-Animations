@@ -73,7 +73,7 @@ section {
 
 @keyframes move-div {
   0% {transform: translateX(0) translateY(0)}
-  25% {transform: translateX(0) translateY(100%)}
-  50% {transform: translateX(100%) translateY(100%)}
-  75% {transform: translateX(100%) translateY(0);}
+  25% {transform: translateX(0) translateY(200%)}
+  50% {transform: translateX(400px) translateY(200%)}
+  75% {transform: translateX(200%) translateY(0);}
 }
